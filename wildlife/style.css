@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html,body{
+   height: 100%;
+}
+body{
+   font-family: 'open sans', serif;
+   font-size: 24px;
+   font-weight: 400;
+}
+a{
+   text-decoration: none;
+   color: #F7F7F7;
+   padding-right: 61px;
+   line-height: 60px;
+   letter-spacing: 1.11px;
+}
+ul{
+   list-style-type: none;
+}
+h1{
+   font-size: 48px;
+   line-height: 72px;
+   letter-spacing: 2.5px;
+   color: #CD6326;
+   font-weight: 400;
+}
+h2{
+   font-size: 48px;
+   line-height: 72px;
+   text-align: center;
+   font-weight: 400;
+   color:#333333;
+}
+h3{
+   color: #ffffff;
+   font-family: 'Roboto';
+   font-size: 32px;
+   line-height: 60px;
+   margin-left: 16px;
+   font-weight: 100;
+   letter-spacing: 1;
+   text-transform: uppercase;
+}
